@@ -15,7 +15,8 @@ A collection of Jupyter notebooks covering Exploratory Data Analysis (EDA) and F
 - **Handling Imbalanced Datasets** - Techniques like SMOTE for class imbalance
 - **Handling Missing Values** - Imputation strategies
 - **Number Summary and Box Plots** - Statistical summaries and visualization
-
+### Projects
+- This contains the projects related to datascience
 ## Installation
 
 ```bash
