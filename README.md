@@ -17,6 +17,19 @@ A collection of Jupyter notebooks covering Exploratory Data Analysis (EDA) and F
 - **Number Summary and Box Plots** - Statistical summaries and visualization
 ### Projects
 - This contains the projects related to datascience
+
+### logistic regression
+- This contains implementation of logistic regression
+
+### Naive Bayes
+- This contains implementation of Naive Bayes
+
+### KNN
+- This contains implementation of KNN
+
+### support vector machine
+- This contains svm implementation,svm kernals
+
 ## Installation
 
 ```bash
